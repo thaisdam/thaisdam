@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou a Thais Damasceno 👩‍💻
 
-<!--
-**thaisdam/thaisdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UFU  
+💻 Focada em Python, Desenvolvimento Web e Ciência de Dados  
+📊 Interesse em projetos com Django, Java, SQL e análise de dados
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- 💻 Linguagens: Python, Java, HTML/CSS, JavaScript
+- 🌐 Frameworks: Django, 
+- 🛢️ Banco de Dados: MySQL, PostgreSQL
+- 📊 Ferramentas: Git, GitHub, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- LinkedIn: [linkedin.com/in/thaisdam](https://www.linkedin.com/in/thaisdam)
+- GitHub: [github.com/thaisdam](https://github.com/thaisdam)
+
+---
