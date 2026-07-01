@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 - 💻 Linguagens: Python, Java, HTML/CSS, JavaScript
-- 🌐 Frameworks: Django, Bootstrap
+- 🌐 Frameworks: Django, Bootstrap, Spring Boot
 - 🛢️ Banco de Dados: MySQL, PostgreSQL
 - 📊 Ferramentas: Git, GitHub, Power BI
 
