@@ -8,7 +8,7 @@
 - 💻 Linguagens: Python, Java, HTML/CSS, JavaScript
 - 🌐 Frameworks: Django, Bootstrap, Spring Boot
 - 🛢️ Banco de Dados: MySQL, PostgreSQL
-- 📊 Ferramentas: Git, GitHub, Power BI, Docker
+- 📊 Ferramentas: Git, GitHub, Power BI, Docker, Flyway
 
 ## 📫 Contato
 - LinkedIn: [linkedin.com/in/thaisdam](https://www.linkedin.com/in/thaisdam)
